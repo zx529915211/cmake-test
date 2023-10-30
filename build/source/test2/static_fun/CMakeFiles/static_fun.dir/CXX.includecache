@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/static_fun.h
+
+D:/cmake-test/source/test2/static_fun/static_fun.cpp
+static_fun.h
+D:/cmake-test/source/test2/static_fun/static_fun.h
+cstdio
+-
+

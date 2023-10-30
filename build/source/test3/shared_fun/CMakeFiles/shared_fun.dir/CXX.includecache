@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/shared_fun.h
+
+D:/cmake-test/source/test3/shared_fun/shared_fun.cpp
+shared_fun.h
+D:/cmake-test/source/test3/shared_fun/shared_fun.h
+cstdio
+-
+

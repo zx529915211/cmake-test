@@ -1,0 +1,2 @@
+D:\gzf\study\mingw64\bin\ar.exe qc ..\..\..\..\lib\libstatic_fun.a  CMakeFiles/static_fun.dir/static_fun.cpp.obj
+D:\gzf\study\mingw64\bin\ranlib.exe ..\..\..\..\lib\libstatic_fun.a

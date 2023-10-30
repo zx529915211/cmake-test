@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/static_fun.h
+
+/tmp/tmp.Z7zL4PKwtU/source/test2/test2.cpp
+static_fun.h
+/tmp/tmp.Z7zL4PKwtU/source/test2/static_fun.h
+cstdio
+-
+

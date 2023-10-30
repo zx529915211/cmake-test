@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../../lib/libstatic_fun.a CMakeFiles/static_fun.dir/static_fun.cpp.o
+/usr/bin/ranlib ../../../../lib/libstatic_fun.a
